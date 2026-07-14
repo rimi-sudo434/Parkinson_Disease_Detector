@@ -83,7 +83,7 @@ Parkinson_Disease_Detector/
 Clone the repository:
 
 ```bash
-git clone YOUR_GITHUB_REPOSITORY_LINK
+git clone https://github.com/rimi-sudo434/Parkinson_Disease_Detector.git
 ```
 
 Go to the project folder:
